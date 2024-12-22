@@ -15,4 +15,4 @@ async def on_bot_added(client: Client, chat_member_update: ChatMemberUpdated):
         await asyncio.sleep(10)
         
         # Send the /userbotjoin command in the group
-        await client.send_message(chat_id, "/userbotjoin")
+        await client.send_message(chat_id, "/userbotjoin@Gaana_MusicBot")
