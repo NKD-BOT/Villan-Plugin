@@ -16,7 +16,7 @@ async def clones(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💫sᴏᴜʀᴄᴇ🌸", url=f"https://github.com/Badhacker98/BADMUSIC/fork"
+                        "💫sᴏᴜʀᴄᴇ🌸", url=f"https://iili.io/2Ove2v2.jpg"
                     )
                 ]
             ]
