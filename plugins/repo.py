@@ -8,7 +8,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 @app.on_message(filters.command(["repo"]))
 async def start(client: Client, message: Message):
     await message.reply_video(
-        video=f"https://telegra.ph/file/bda2c51bd00c8f4710b04.mp4",
+        video=f"https://files.catbox.moe/05eqzn.mp4",
         caption=f"❤️ ʜᴇʏ {message.from_user.mention}",
         reply_markup=InlineKeyboardMarkup(
             [
