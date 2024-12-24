@@ -2,10 +2,10 @@
   <img src="https://envs.sh/WA4.jpg">
 </p>
 
-# ғᴏʀ ᴇxᴛʀ ᴘʟᴜɢɪɴs [ʙᴀᴅᴍᴜsɪᴄ](https://github.com/Badhacker98/BADMUSIC)
+# ғᴏʀ ᴇxᴛʀ ᴘʟᴜɢɪɴs [ʙᴀᴅᴍᴜsɪᴄ](https://github.com/NKD-BOT/ytvillan)
 
 
-## ғᴏʀ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ [ʙᴀᴅᴍᴜsɪᴄ](https://github.com/Badhacker98/BADMUSIC)
+## ғᴏʀ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ [ʙᴀᴅᴍᴜsɪᴄ](https://github.com/NKD-BOT/ytvillan)
 
 #### 🚀 ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
