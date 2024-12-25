@@ -10,7 +10,7 @@ from BADMUSIC.utils.database import add_served_chat, get_assistant
 @app.on_message(filters.command("clone"))
 async def clones(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://envs.sh/SY-.jpg",
+        photo=f"https://files.catbox.moe/0h2ws8.jpg",
         caption=f"""**😒ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ꜱᴜᴅᴏ ᴜꜱᴇʀ ꜱᴏ ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴀʟʟᴏᴡᴇᴅ ᴛᴏ ᴄʟᴏɴᴇ ᴍᴇ.**\n**😌ᴄʟɪᴄᴋ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴀɴᴅ ʜᴏꜱᴛ ᴍᴀɴᴜᴀʟʟʏ ᴏᴛʜᴇʀᴡɪꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ ᴏʀ ꜱᴜᴅᴏ ᴜꜱᴇʀꜱ ꜰᴏʀ ᴄʟᴏɴᴇ.**""",
         reply_markup=InlineKeyboardMarkup(
             [
